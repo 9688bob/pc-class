@@ -7,6 +7,7 @@ int main() {
     cout << "A = B   is " << (A == B) << endl;
     cout << "A != B  is " << (A != B) << endl;
     cout << "A < B   is " << (A < B) << endl;
+    //code by. PTHS s110149
     cout << "A > B   is " << (A > B) << endl;
     cout << "A <= B  is " << (A <= B) << endl;
     cout << "A >= B  is " << (A >= B) << endl;

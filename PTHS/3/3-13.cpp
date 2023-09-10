@@ -11,6 +11,7 @@ int main() {
     cout << i << " sizeof(int) : " << sizeof(int) << endl;
     cout << f << " sizeof(float) : " << sizeof(float) << endl;
     cout << d << " sizeof(double) : " << sizeof(double) << endl;
+    //code by. PTHS s110149
     cout << c << " sizeof(char) : " << sizeof(char) << endl;
     cout << b << " sizeof(bool) : " << sizeof(bool) << endl;
 
